@@ -1,0 +1,3 @@
+D:/AGH/sezon3/preoop/zelawski/lab05/cmake-build-debug/CMakeFiles/Poly.dir
+D:/AGH/sezon3/preoop/zelawski/lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AGH/sezon3/preoop/zelawski/lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
