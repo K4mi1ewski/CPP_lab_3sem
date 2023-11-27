@@ -1,4 +1,4 @@
-# Install script for directory: /home/stud2022/2milewski/labCPP_3sem/lab06
+# Install script for directory: /home/k4mi1ewski/Documents/Programming/C++/CPP_lab_3sem/lab06
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/stud2022/2milewski/labCPP_3sem/lab06/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/k4mi1ewski/Documents/Programming/C++/CPP_lab_3sem/lab06/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

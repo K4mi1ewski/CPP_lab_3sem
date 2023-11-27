@@ -1,3 +1,3 @@
-/home/stud2022/2milewski/labCPP_3sem/lab06/build/CMakeFiles/Array.dir
-/home/stud2022/2milewski/labCPP_3sem/lab06/build/CMakeFiles/edit_cache.dir
-/home/stud2022/2milewski/labCPP_3sem/lab06/build/CMakeFiles/rebuild_cache.dir
+/home/k4mi1ewski/Documents/Programming/C++/CPP_lab_3sem/lab06/build/CMakeFiles/Array.dir
+/home/k4mi1ewski/Documents/Programming/C++/CPP_lab_3sem/lab06/build/CMakeFiles/edit_cache.dir
+/home/k4mi1ewski/Documents/Programming/C++/CPP_lab_3sem/lab06/build/CMakeFiles/rebuild_cache.dir
